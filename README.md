@@ -1,16 +1,9 @@
 # flutter_gallery
 
-A new Flutter project.
+Heart Beat Animation
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/Asadq518/flutter_gallery/assets/80805021/cc97512d-2cbf-4248-9d3b-97ec0c6a48c2
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
